@@ -1,0 +1,32 @@
+
+.a:hover{
+             color:green;
+             background-color:black;
+             font-size:20px;
+                  }
+     form{
+          background-color:white;
+          padding:20px;
+          overflow:scroll;
+          height:80%;
+          width:100%;
+   
+          }
+ body{
+    background-color:#702963;
+    height:600px;
+    width:600px;
+    margin:20px auto;
+    padding:20px;
+}
+h1{
+    text-align:center;
+    color:white;
+    background-color:black;
+    border-width:thick;
+    border-color:black;
+border-style:double;
+    padding:10px;
+    box-shadow:5px 5px darkgrey;
+    }
+     
